@@ -1,4 +1,4 @@
-This artifact contains the files used in SemSeed's replication.
+This artifact contains the files used in SemSeed's replication. As mentioned in the article, the necessary files for running SemSeed can be found [here](https://github.com/sola-st/SemSeed/)
 
 The "Sample Files" folder has the input files which were each placed in SemSeed's "\benchmarks\data" folder, substituting the default file "sample.js"
 
