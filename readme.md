@@ -1,6 +1,6 @@
-#Analysing a Semantics-Aware Bug Seeding Tool’s Efficacy: A qualitative study with the SemSeed tool
+# Analysing a Semantics-Aware Bug Seeding Tool’s Efficacy: A qualitative study with the SemSeed tool
 
-##Artifact materials
+## Artifact materials
 
 This artifact contains the files used in SemSeed's replication. As mentioned in the article, the necessary files for running SemSeed can be found [here](https://github.com/sola-st/SemSeed/).
 
@@ -17,7 +17,7 @@ A copy of the questions used in the survey can be found [here](https://forms.gle
 We also provide a directory with example files that, for any reason, SemSeed could not seed bugs in.
 
 
-##Problems with replicating SemSeed
+## Problems with replicating SemSeed
 
 As mentioned in our article, trying to run SemSeed following its repository's tutorial presented problems.
 
