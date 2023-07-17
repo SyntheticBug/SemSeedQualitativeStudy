@@ -17,7 +17,7 @@ A copy of the survey can be found [here](https://forms.gle/5kQ9sdkYJAqrH1536)
 We also provide a directory with example files that, for any reason, SemSeed could not seed bugs in.
 
 
-## Problems with replicating SemSeed
+## challenges faced during the replication of the original study 
 
 As mentioned in our article, trying to run SemSeed following its repository's tutorial presented problems.
 
