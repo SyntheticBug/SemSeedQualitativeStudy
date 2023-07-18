@@ -1,8 +1,10 @@
 # Analysing a Semantics-Aware Bug Seeding Tool’s Efficacy: A qualitative study with the SemSeed tool
 
-## Artifact materials
+## Artifact Materials
 
 This artifact contains the files used in SemSeed's replication. As mentioned in the article, the necessary files for running SemSeed can be found [here](https://github.com/sola-st/SemSeed/).
+
+We have made all generated and used selected human-made and synthetic bugs available. By including these code fragments, we aim to provide concrete illustrations of the bugs used in the study, showcasing their characteristics and thus enhancing the clarity and comprehensibility of our research findings. 
 
 The "Sample Files" folder has the input files which were each placed in SemSeed's "\benchmarks\data" folder, substituting the default file "sample.js".
 
