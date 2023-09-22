@@ -12,7 +12,6 @@ The Selected Files folder contains the code fragments which were used in the sur
 
 The script "search_similarity.py" was used to divide the total output in four quartiles divided by similarity and choose one random file from each quartile, while "similarity_display.py" shows graphs of an output's similarity distribution.
 
-A copy of the survey can be found [here](https://forms.gle/5kQ9sdkYJAqrH1536)
 
 "[Final] Survey on Synthetic Bugs for JavaScript.xlsx" has the survey's data and all calculations displayed as tables throughout the article.
 
